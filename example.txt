@@ -1,0 +1,5 @@
+Hello ! Everyone . I am Sudip . 
+I am student of codingal .
+I am learning python .
+Python is very easy to learn and use widely for every sector of programming .
+Ai is also a part of python .
